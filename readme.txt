@@ -4,4 +4,4 @@ GIt has a mutable index called stage.
 tracks changes of files.
 git diff compare.
 git checkout -- file.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
