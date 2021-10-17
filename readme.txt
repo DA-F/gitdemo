@@ -5,3 +5,5 @@ tracks changes of files.
 git diff compare.
 git checkout -- file.
 Creating a new branch is quick and simple.
+--no-ff.
+with dev --no-ff.
